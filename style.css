@@ -1,0 +1,48 @@
+#nav{
+    position: fixed;
+    width: 100%;
+    /* background-color: blue;
+    color: aliceblue; */
+    /* word-spacing: 290px; */
+ 
+
+}
+#ho{
+    text-align: center;
+    margin-top: 5%;
+
+}
+#home{
+    text-align: center;
+    /* background-color: beige; */
+    /* background-image: url(wce_home.jpg);
+    background-repeat: no-repeat;
+    
+    background-size: contain; */
+    margin-top: 5%;
+
+}
+#cred{
+    text-align: center;
+    /* border-style: solid; */
+    margin-top: 5%;
+    margin-bottom: 3%;
+
+}
+#btn{
+    margin-left: 90%;
+    align-items:baseline ;
+    margin-top: 5%;
+}
+#con{
+    text-align: center;
+}
+#contact{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    margin-top: 5%;
+}
+#img{
+    text-align: center;
+}
